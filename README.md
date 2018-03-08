@@ -1,4 +1,4 @@
-# mega328P_state_machine
+# ATmega328p State Machine
 4-state state machine implemented on an Atmel ATmega328p microcontroller. Programmed in C.
 
 The state machine has four states; Red, Green, Blue and Yellow. The hardware consists of an ATmega328p MCU connected to two active low pushbuttons, four LEDs (one for each state) and a 7-segment display connected via a 74HC595 shift register.
